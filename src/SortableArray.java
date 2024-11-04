@@ -5,12 +5,12 @@ public class SortableArray {
 
    
 
-    /* this program sorts array of integers and strings*/
+    /*this function sorts an array of integers*/
     public static void sortIntegers(int[] array) {
         Arrays.sort(array);
     }
 
-  
+  /*this function sorts an array of strings*/
     public static void sortStrings(String[] array) {
         Arrays.sort(array);
     }
