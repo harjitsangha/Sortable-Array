@@ -8,7 +8,7 @@ public class SortableArray {
      */
 
      /**
-     * new comment.
+     *  this program sorts an array of integers and strings.
      */
     public static void sortIntegers(int[] array) {
         Arrays.sort(array);
