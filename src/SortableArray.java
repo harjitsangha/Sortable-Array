@@ -1,8 +1,6 @@
 import java.util.Arrays;
 
-/**
- * Utility class to sort arrays of integers and strings.
- */
+
 public class SortableArray {
 
     /**
