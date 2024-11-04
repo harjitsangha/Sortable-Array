@@ -3,14 +3,14 @@ import java.util.Arrays;
 
 public class SortableArray {
 
-   
+   /*sorts an array of integers  */
 
     
     public static void sortIntegers(int[] array) {
         Arrays.sort(array);
     }
 
-    
+    /*sorts an array of strings */
     public static void sortStrings(String[] array) {
         Arrays.sort(array);
     }
