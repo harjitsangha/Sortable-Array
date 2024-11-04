@@ -6,6 +6,10 @@ public class SortableArray {
     /**
      * Sorts an array of integers in ascending order.
      */
+
+     /**
+     * new comment.
+     */
     public static void sortIntegers(int[] array) {
         Arrays.sort(array);
     }
