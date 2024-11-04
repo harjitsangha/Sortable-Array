@@ -3,16 +3,14 @@ import java.util.Arrays;
 
 public class SortableArray {
 
-    /**
-     * Sorts an array of integers in ascending order.
-     */
+   
 
     
     public static void sortIntegers(int[] array) {
         Arrays.sort(array);
     }
 
-    /* Sorts an array of strings in alphabetical order.*/
+    
     public static void sortStrings(String[] array) {
         Arrays.sort(array);
     }
